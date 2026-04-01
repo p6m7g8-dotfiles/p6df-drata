@@ -23,5 +23,5 @@ p6df::modules::drata::deps() {
 ######################################################################
 p6df::modules::drata::profile::mod() {
 
-  p6_return_words 'drata' "$"
+  p6_return_words 'drata' '$DRATA_API_KEY'
 }
