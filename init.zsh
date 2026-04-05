@@ -13,10 +13,10 @@ p6df::modules::drata::deps() {
 ######################################################################
 #<
 #
-# Function: words drata $DRATA_API_KEY = p6df::modules::drata::profile::mod()
+# Function: words drata = p6df::modules::drata::profile::mod()
 #
 #  Returns:
-#	words - drata $DRATA_API_KEY
+#	words - drata
 #
 #  Environment:	 DRATA_API_KEY
 #>
